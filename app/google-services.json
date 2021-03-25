@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858499638712",
+    "project_id": "keep-box-14fd8",
+    "storage_bucket": "keep-box-14fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858499638712:android:e5c4c6fb21d2fc4b669b4d",
+        "android_client_info": {
+          "package_name": "com.anilcanipsalali.keepbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858499638712-73pvmdg3qnguhc54o2deia3nb160pp4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1F_dhuZGHrCG8yQyjMoCVrtaDtRaV4lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858499638712-73pvmdg3qnguhc54o2deia3nb160pp4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

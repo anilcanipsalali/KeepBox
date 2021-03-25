@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Keep Box</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="keep_box">Keep Box</string>
+    <string name="delete_note">DELETE NOTE</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure want to delete this note?</string>
+    <string name="delete_note_lower">Delete Note</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update</string>
+    <string name="language">Language</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="you_don_t_have_an_account_register">You don\'t have an account? Register!</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="register">Register</string>
+    <string name="type_note">Type note here..</string>
+    <string name="change_language">Change Language</string>
+    <string name="turkish">Turkish</string>
+    <string name="english">English</string>
+    <string name="apply">APPLY</string>
+</resources>

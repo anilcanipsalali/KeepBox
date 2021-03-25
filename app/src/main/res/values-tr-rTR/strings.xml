@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Box</string>
+    <string name="search_notes">Notları ara</string>
+    <string name="note_title">Başlık</string>
+    <string name="note_subtitle">Alt Başlık</string>
+    <string name="miscellaneous">Araçlar</string>
+    <string name="pick_color">Renk Seç</string>
+    <string name="add_image">Resim Ekle</string>
+    <string name="add_url">URL Ekle</string>
+    <string name="enter_url">URL Gir</string>
+    <string name="add">EKLE</string>
+    <string name="cancel_dialog">İPTAL</string>
+    <string name="keep_box">Keep Box</string>
+    <string name="delete_note">NOTU SİL</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Bu notu silmek istediğine emin misin?</string>
+    <string name="delete_note_lower">Notu Sil</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="update">Güncelle</string>
+    <string name="language">Dil Seçenekleri</string>
+    <string name="name">İsim</string>
+    <string name="email">Email</string>
+    <string name="password">Şifre</string>
+    <string name="you_don_t_have_an_account_register">Hesabın yok mu? Hemen kayıt ol!</string>
+    <string name="login">Giriş Yap</string>
+    <string name="forgot_password">Şifreni mi unuttun?</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="type_note">Buraya notunu bırak..</string>
+</resources>
