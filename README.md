@@ -1,5 +1,5 @@
 # Keep Box
-Keep Box is a notes app for android users.(Demo for now.)
+Keep Box is a notes app for android users. (Demo for now.)
 
 # Features
 - Firebase Authentication.
